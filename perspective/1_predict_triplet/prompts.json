@@ -1,0 +1,21 @@
+{
+    "banking77": "Select the banking customer utterance that better corresponds with the Query in terms of intent.\n\n",
+    "stackexchange": "Select the StackExchange question that better corresponds with the Query in terms of topic.\n\n",
+    "reddit": "Select the Reddit question that better corresponds with the Query in terms of topic.\n\n",
+    "arxiv_fine": "Select the Arxiv paper title that better corresponds with the Query in terms of domain.\n\n",
+    "synthesized_emotion": "Select the document that better corresponds with the Query in terms of emotion.\n\n",
+    "synthesized_style": "Select the document that better corresponds with the Query in terms of style.\n\n",
+    "synthesized_topic": "Select the document that better corresponds with the Query in terms of topic.\n\n",
+    "few_rel_nat": "Select the example that better corresponds with the Query in terms of relation type.\n\n",
+    "go_emotion": "Select the sentence that better corresponds with the Query in terms of emotion expressed.\n\n",
+    "few_nerd_nat": "Select the example that better corresponds with the Query in terms of entity type.\n\n",
+    "massive_scenario": "Select the user utterance that better corresponds with the Query in terms of scenario.\n\n",
+    "massive_intent": "Select the user utterance that better corresponds with the Query in terms of intent.\n\n",
+    "mtop_domain": "Select the user utterance that better corresponds with the Query in terms of domain\n\n",
+    "mtop_intent": "Select the user utterance that better corresponds with the Query in terms of intent\n\n",
+    "few_event": "Select the example that better corresponds with the Query in terms of event type.\n\n",
+    "clinc": "Select the customer utterance that better corresponds with the Query in terms of intent.\n\n",
+    "clinc_domain": "Select the customer utterance that better corresponds with the Query in terms of domain\n\n",
+    "goal_topic": "Select the example that better corresponds with the Query in terms of topic\n\n",
+    "goal_language": "Select the choice that uses the same language (such as English or Chinese) as Query.\n\n"
+}
